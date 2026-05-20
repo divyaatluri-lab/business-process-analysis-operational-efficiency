@@ -53,10 +53,14 @@ The proposed improvements can enhance operational efficiency, reduce turnaround 
 
 - ## AS-IS Process Flow
 
-![AS-IS Process](as-is-process-flow-diagram.png)
+![AS-IS Process](AS-IS-process-flow-diagram.png)
 
 ---
 
 ## TO-BE Process Flow
 
-![TO-BE Process](to-be-process-flow-diagram.png)
+![TO-BE Process](TO-BE-process-flow-diagram.png)
+
+## Operational Dashboard
+
+![operational-dashboard](operational-dashboard.png)
